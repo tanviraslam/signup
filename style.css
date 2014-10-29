@@ -1,0 +1,11 @@
+.brand-logo{
+  background: url(logo.jpg) no-repeat;
+  width: 400px;
+  height: 200px;
+}
+
+body{
+  width: 1000px;
+  height: 500px;
+  margin: 0 auto;
+}
