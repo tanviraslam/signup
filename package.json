@@ -1,0 +1,24 @@
+{
+  "name": "simple_signup_form",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tanviraslam/signup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanviraslam/signup/issues"
+  },
+  "homepage": "https://github.com/tanviraslam/signup",
+  "devDependencies": {
+    "karma-jasmine": "~0.2.3",
+    "karma": "~0.12.24",
+    "karma-chrome-launcher": "~0.1.5"
+  }
+}

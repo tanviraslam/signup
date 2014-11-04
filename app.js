@@ -1,5 +1,9 @@
 var app = angular.module('app', []);
 
+// app.run(function($rootScope){
+//   $rootScope.alert = function(str){alert(str);};
+// });
+
 app.directive('optIn', function(){
   return {
     restrict: 'E',
